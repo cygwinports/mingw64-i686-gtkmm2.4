@@ -3,7 +3,7 @@ ORIG_PN="gtkmm"
 inherit cross gtkmm
 
 NAME="mingw64-i686-gtkmm2.4"
-VERSION=2.24.2
+VERSION=2.24.4
 RELEASE=1
 CATEGORY="Devel"
 SUMMARY="GTK+ C++ bindings for Win32 toolchain"
